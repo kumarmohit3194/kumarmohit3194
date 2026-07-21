@@ -19,11 +19,17 @@
 ## What I Work On
 
 - **Predictive analytics and machine learning:** Build classification, forecasting, and campaign-response models using time-based validation, feature engineering, scenario analysis, and business-focused model evaluation.
+
 - **Marketing, CRM, and growth analytics:** Analyze customer journeys, campaign engagement, conversion funnels, web behavior, SEO performance, and attribution across CRM, email, digital marketing, and web analytics environments.
+
 - **Analytics engineering:** Develop reliable data transformations, dimensional models, reusable metric layers, data-quality checks, and analysis-ready datasets that support scalable reporting and decision-making.
+
 - **Business intelligence and data storytelling:** Create decision-focused dashboards, automated reporting workflows, and executive-ready insights using Power BI, Qlik Sense, Looker Studio, Streamlit, and Excel.
+
 - **Product and behavioral analytics:** Explore user behavior, journeys, segmentation, retention, and experimentation concepts using tools such as Amplitude, GA4, and Adobe Analytics.
+
 - **AI-enabled analytics:** Build analytics agents and AI-assisted workflows for data validation, insight generation, reporting automation, predictive modelling, and analytical quality assurance.
+
 - **Analytics leadership:** Translate complex analysis into clear business recommendations, collaborate with cross-functional teams, improve reporting processes, and support the development of junior analysts.
 
 ---
