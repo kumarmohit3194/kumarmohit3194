@@ -40,26 +40,6 @@ End-to-end portfolio system for forecasting telecom email campaign engagement us
 
 `Python` · `pandas` · `scikit-learn` · `Prophet` · `Streamlit` · `Matplotlib`
 
-### Manpower Demand Forecasting
-
-Forecasting project focused on anticipating workforce demand and potential skill shortages.
-
-- Explored labor-market, industry, and workforce data through Jupyter-based analysis.
-- Applied data cleaning, exploratory analysis, forecasting, and neural-network concepts.
-- Framed outputs around workforce planning, resource allocation, and shortage preparedness.
-
-`Python` · `Jupyter Notebook` · `Artificial Neural Networks` · `Forecasting` · `EDA`
-
-### Applied Machine Learning Portfolio
-
-Cross-domain machine-learning work spanning healthcare, retail demand, and computer vision.
-
-- Cardiovascular risk analysis using patient characteristics, daily habits, EDA, and predictive classification.
-- Supermarket demand forecasting using historical sales data.
-- CNN-based image classification for zebra versus non-zebra images.
-
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `Deep Learning` · `Data Visualization`
-
 ### Growth Analytics & Measurement
 
 Analytics-first framework for helping small and midsize businesses find broken tracking, identify funnel leaks, and prioritize growth decisions.
@@ -120,3 +100,27 @@ I start with the decision, define trustworthy metrics, validate the data, choose
 - Deepening PySpark and Spark SQL skills for scalable analytics engineering.
 - Connecting marketing measurement to CRM outcomes and revenue decisions.
 - Turning technical analysis into clear dashboards, documentation, and operating recommendations.
+
+---
+
+## Additional Academic Projects
+
+### Manpower Demand Forecasting
+
+Forecasting project focused on anticipating workforce demand and potential skill shortages.
+
+- Explored labor-market, industry, and workforce data through Jupyter-based analysis.
+- Applied data cleaning, exploratory analysis, forecasting, and neural-network concepts.
+- Framed outputs around workforce planning, resource allocation, and shortage preparedness.
+
+`Python` · `Jupyter Notebook` · `Artificial Neural Networks` · `Forecasting` · `EDA`
+
+### Applied Machine Learning Portfolio
+
+Cross-domain machine-learning work spanning healthcare, retail demand, and computer vision.
+
+- Cardiovascular risk analysis using patient characteristics, daily habits, EDA, and predictive classification.
+- Supermarket demand forecasting using historical sales data.
+- CNN-based image classification for zebra versus non-zebra images.
+
+`Python` · `pandas` · `NumPy` · `scikit-learn` · `Deep Learning` · `Data Visualization`
