@@ -88,6 +88,16 @@ End-to-end portfolio system for forecasting telecom email campaign engagement us
 
 `Python` · `pandas` · `scikit-learn` · `Prophet` · `Streamlit` · `Matplotlib`
 
+### ETL Automation
+
+- Windows-ready Python ETL pipeline that transforms recurring email campaign workbooks into clean, standardized, analysis-ready datasets.
+- Automates Excel ingestion, data cleaning, schema validation, transformation, and consolidated report generation.
+- Supports multiple business streams through configurable JSON and environment-based settings.
+- Standardizes campaign metrics, date fields, naming conventions, and percentage formatting across source files.
+- Preserves original workbooks and archives them only after successful processing.
+- Includes one-click Windows setup and execution scripts, automated tests, and project health checks.
+- Uses anonymized sample configurations and excludes credentials, client data, and sensitive business identifiers.
+
 ### Growth Analytics & Measurement
 
 Analytics-first framework for helping small and midsize businesses find broken tracking, identify funnel leaks, and prioritize growth decisions.
