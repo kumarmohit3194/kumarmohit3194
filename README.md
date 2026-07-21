@@ -12,7 +12,6 @@
   <a href="https://github.com/kumarmohit3194">
     <img src="https://img.shields.io/badge/GitHub-kumarmohit3194-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Windsor%2C%20Canada-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Windsor, Canada" />
 </p>
 
 ---
