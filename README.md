@@ -90,9 +90,13 @@ I start with the decision, define trustworthy metrics, validate the data, choose
 End-to-end portfolio system for forecasting telecom email campaign engagement using fully synthetic data.
 
 - Built campaign-level scoring for expected opens and clicks with Ridge, Random Forest, and Gradient Boosting models.
+
 - Used a chronological holdout to preserve real forecasting conditions and reduce leakage risk.
+
 - Added monthly Prophet forecasts, seasonal baselines, validation reports, model QA, and scenario downloads.
+
 - Delivered an interactive Streamlit planning dashboard plus reproducible training and smoke-test workflows.
+
 - Selected Gradient Boosting achieved holdout R² of **0.6045 for open rate** and **0.5791 for click rate** on synthetic data.
 
 `Python` · `pandas` · `scikit-learn` · `Prophet` · `Streamlit` · `Matplotlib`
@@ -105,11 +109,17 @@ End-to-end portfolio system for forecasting telecom email campaign engagement us
 <br>
 
 - Cross-platform Python ETL pipeline that transforms recurring email campaign workbooks into clean, standardized, analysis-ready datasets on Windows and macOS.
+
 - Automates Excel ingestion, data cleaning, schema validation, transformation, and consolidated report generation.
+
 - Supports multiple business streams through configurable JSON and environment-based settings.
+
 - Standardizes campaign metrics, date fields, naming conventions, and percentage formatting across source files.
+
 - Preserves original workbooks and archives them only after successful processing.
+
 - Includes shared setup logic, Windows and macOS execution scripts, automated tests, cross-platform CI, and project health checks.
+
 - Uses anonymized sample configurations and excludes credentials, client data, and sensitive business identifiers.
 
 </details>
@@ -122,7 +132,9 @@ End-to-end portfolio system for forecasting telecom email campaign engagement us
 Analytics-first framework for helping small and midsize businesses find broken tracking, identify funnel leaks, and prioritize growth decisions.
 
 - Connects GA4 measurement, SEO visibility, CRM pipeline analysis, and conversion reporting.
+
 - Defines practical diagnostics, KPI frameworks, dashboard deliverables, and measurement guardrails.
+
 - Focuses reporting on qualified leads and business outcomes rather than surface-level traffic metrics.
 
 `GA4` · `Search Console` · `SEMrush` · `Salesforce` · `Power BI` · `Looker Studio`
@@ -134,8 +146,11 @@ Analytics-first framework for helping small and midsize businesses find broken t
 ## Current Focus
 
 - Building production-minded forecasting workflows with explicit validation, reproducibility, and monitoring.
+
 - Deepening PySpark and Spark SQL skills for scalable analytics engineering.
+
 - Connecting marketing measurement to CRM outcomes and revenue decisions.
+
 - Turning technical analysis into clear dashboards, documentation, and operating recommendations.
 
 ---
@@ -147,7 +162,9 @@ Analytics-first framework for helping small and midsize businesses find broken t
 Forecasting project focused on anticipating workforce demand and potential skill shortages.
 
 - Explored labor-market, industry, and workforce data through Jupyter-based analysis.
+
 - Applied data cleaning, exploratory analysis, forecasting, and neural-network concepts.
+
 - Framed outputs around workforce planning, resource allocation, and shortage preparedness.
 
 `Python` · `Jupyter Notebook` · `Artificial Neural Networks` · `Forecasting` · `EDA`
@@ -157,7 +174,9 @@ Forecasting project focused on anticipating workforce demand and potential skill
 Cross-domain machine-learning work spanning healthcare, retail demand, and computer vision.
 
 - Cardiovascular risk analysis using patient characteristics, daily habits, EDA, and predictive classification.
+
 - Supermarket demand forecasting using historical sales data.
+
 - CNN-based image classification for zebra versus non-zebra images.
 
 `Python` · `pandas` · `NumPy` · `scikit-learn` · `Deep Learning` · `Data Visualization`
