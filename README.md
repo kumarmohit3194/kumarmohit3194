@@ -47,7 +47,12 @@
 ![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009848?style=for-the-badge&logo=qlik&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-EB1000?style=for-the-badge&logo=adobeanalytics&logoColor=white)
+
+### CRM Platforms
+
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Braze](https://img.shields.io/badge/Braze-3ACC96?style=for-the-badge&logo=braze&logoColor=black)
+![Marketo](https://img.shields.io/badge/Marketo-5C4C9F?style=for-the-badge&logo=marketo&logoColor=white)
 
 ---
 
