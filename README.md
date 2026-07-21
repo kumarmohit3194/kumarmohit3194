@@ -121,11 +121,11 @@ End-to-end portfolio system for forecasting telecom email campaign engagement us
 
 Analytics-first framework for helping small and midsize businesses find broken tracking, identify funnel leaks, and prioritize growth decisions.
 
-- Connects GA4/GTM measurement, SEO visibility, CRM pipeline analysis, and conversion reporting.
+- Connects GA4 measurement, SEO visibility, CRM pipeline analysis, and conversion reporting.
 - Defines practical diagnostics, KPI frameworks, dashboard deliverables, and measurement guardrails.
 - Focuses reporting on qualified leads and business outcomes rather than surface-level traffic metrics.
 
-`GA4` · `Google Tag Manager` · `Search Console` · `SEMrush` · `Salesforce` · `Power BI` · `Looker Studio`
+`GA4` · `Search Console` · `SEMrush` · `Salesforce` · `Power BI` · `Looker Studio`
 
 </details>
 
