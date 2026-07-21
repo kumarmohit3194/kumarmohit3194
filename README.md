@@ -62,11 +62,11 @@
 
 ```mermaid
 flowchart LR
-    A["Business Questions"] --> B["Campaign · CRM · Web · Product · Operations Data"]
+    A["Business Questions"] --> B["Campaign · CRM · Web · Product"]
     B --> C["Clean · Validate · Model"]
     C --> D["SQL · Python · pandas · PySpark"]
     D --> E["Forecasting · ML · Funnel Analysis · Experimentation"]
-    E --> F["Streamlit · Qlik Sense · Power BI · Looker Studio"]
+    E --> F["Streamlit · Power BI · Looker Studio"]
     F --> G["Decisions · Measurement · Iteration"]
 ```
 
