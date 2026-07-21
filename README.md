@@ -157,7 +157,10 @@ Analytics-first framework for helping small and midsize businesses find broken t
 
 ## Additional Academic Projects
 
-### Manpower Demand Forecasting
+<details>
+<summary><strong>Manpower Demand Forecasting</strong></summary>
+
+<br>
 
 Forecasting project focused on anticipating workforce demand and potential skill shortages.
 
@@ -169,7 +172,12 @@ Forecasting project focused on anticipating workforce demand and potential skill
 
 `Python` · `Jupyter Notebook` · `Artificial Neural Networks` · `Forecasting` · `EDA`
 
-### Applied Machine Learning Portfolio
+</details>
+
+<details>
+<summary><strong>Applied Machine Learning Portfolio</strong></summary>
+
+<br>
 
 Cross-domain machine-learning work spanning healthcare, retail demand, and computer vision.
 
@@ -180,3 +188,5 @@ Cross-domain machine-learning work spanning healthcare, retail demand, and compu
 - CNN-based image classification for zebra versus non-zebra images.
 
 `Python` · `pandas` · `NumPy` · `scikit-learn` · `Deep Learning` · `Data Visualization`
+
+</details>
