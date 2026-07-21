@@ -82,7 +82,10 @@ I start with the decision, define trustworthy metrics, validate the data, choose
 
 ## Selected Work
 
-### Campaign Performance Prediction
+<details>
+<summary><strong>Campaign Performance Prediction</strong></summary>
+
+<br>
 
 End-to-end portfolio system for forecasting telecom email campaign engagement using fully synthetic data.
 
@@ -94,7 +97,12 @@ End-to-end portfolio system for forecasting telecom email campaign engagement us
 
 `Python` · `pandas` · `scikit-learn` · `Prophet` · `Streamlit` · `Matplotlib`
 
-### ETL Automation
+</details>
+
+<details>
+<summary><strong>ETL Automation</strong></summary>
+
+<br>
 
 - Cross-platform Python ETL pipeline that transforms recurring email campaign workbooks into clean, standardized, analysis-ready datasets on Windows and macOS.
 - Automates Excel ingestion, data cleaning, schema validation, transformation, and consolidated report generation.
@@ -104,7 +112,12 @@ End-to-end portfolio system for forecasting telecom email campaign engagement us
 - Includes shared setup logic, Windows and macOS execution scripts, automated tests, cross-platform CI, and project health checks.
 - Uses anonymized sample configurations and excludes credentials, client data, and sensitive business identifiers.
 
-### Growth Analytics & Measurement
+</details>
+
+<details>
+<summary><strong>Growth Analytics & Measurement</strong></summary>
+
+<br>
 
 Analytics-first framework for helping small and midsize businesses find broken tracking, identify funnel leaks, and prioritize growth decisions.
 
@@ -113,6 +126,8 @@ Analytics-first framework for helping small and midsize businesses find broken t
 - Focuses reporting on qualified leads and business outcomes rather than surface-level traffic metrics.
 
 `GA4` · `Google Tag Manager` · `Search Console` · `SEMrush` · `Salesforce` · `Power BI` · `Looker Studio`
+
+</details>
 
 ---
 
